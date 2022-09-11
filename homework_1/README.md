@@ -1,2 +1,2 @@
-# Python_BI_2022
+# homework_1
 'test'
