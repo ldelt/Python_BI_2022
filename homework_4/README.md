@@ -1,16 +1,27 @@
 
 # README
 >Python 3.10.8
+
 >Operating System: Manjaro Linux
+
 >KDE Plasma Version: 5.26.3
+
 >KDE Frameworks Version: 5.99.0
+
 >Qt Version: 5.15.7
+
 >Kernel Version: 5.15.78-1-MANJARO (64-bit)
+
 >Graphics Platform: X11
+
 >Processors: 4 × Intel® Core™ i5-2500 CPU @ 3.30GHz
+
 >Memory: 7.7 ГиБ of RAM
+
 >Graphics Processor: NVC1
->Manufacturer: Gigabyte Technology Co., Ltd.
+
+>Manufacturer: Gigabyte Technology Co., Ltd
+
 >Product Name: P67-DS3-B3
 1. **Preparing the work directory and repository branch**
   ```cd Python_BI_2022```
