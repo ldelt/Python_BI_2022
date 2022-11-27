@@ -13,13 +13,13 @@
 >Manufacturer: Gigabyte Technology Co., Ltd.
 >Product Name: P67-DS3-B3
 1. **Preparing the work directory and repository branch**
-```cd Python_BI_2022```
-```git checkout main```
-```git checkout -b homework_4```
-```mkdir homework_4```
-```cd homework_4```
-```touch README.md```
-```wget https://raw.githubusercontent.com/krglkvrmn/Virtual_environment_research/master/pain.py```
+  ```cd Python_BI_2022```
+  ```git checkout main```
+  ```git checkout -b homework_4```
+  ```mkdir homework_4```
+  ```cd homework_4```
+  ```touch README.md```
+  ```wget https://raw.githubusercontent.com/krglkvrmn/Virtual_environment_research/master/pain.py```
 2. **Create environment**
 ```python3.10 -m venv hw_4_venv```
 ```cd hw_4_venv```
